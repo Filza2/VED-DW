@@ -1,5 +1,5 @@
 from pafy import new
-import youtube_dl,requests,time
+import youtube_dl,requests
 print("""                                                                                       
 ██╗   ██╗███████╗██████╗       ██████╗ ██╗    ██╗
 ██║   ██║██╔════╝██╔══██╗      ██╔══██╗██║    ██║
